@@ -7,7 +7,7 @@ package proyectolgc;
 
 /**
  *
- * @author usuario
+ * @author Luis Garcia Clavel version: java 8
  */
 public class ProyectoLGC {
 
